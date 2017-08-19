@@ -4,6 +4,10 @@ package com.example.guannan.elderlycare;
  * Created by guannan on 15/8/2017.
  */
 
+/**
+ * this is new
+ */
+
 public class Contacts_list {
     private String name;
     private int ImageId;
